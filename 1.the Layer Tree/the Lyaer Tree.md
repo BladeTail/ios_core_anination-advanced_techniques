@@ -1,7 +1,6 @@
 # 层级树
-*妖怪有层级，洋葱也有层级。现在你明白了吧？我们都有层级。
-*Ogres have layers，Onions have layers。You get it？We both have layers。
-*--Shrek
+妖怪有层级，洋葱也有层级。现在你明白了吧？我们都有层级。Ogres have layers，Onions have layers。You get it？We both have layers。
+--Shrek
 
 Core Animation的名字是有误导性的。读者可能会根据它的名字认为，它目的是来做动画的，但是实际上“动画”只是此框架的一个方面，甚至还只是Layer Kit以动画为中心的的一个名称而已。
 
