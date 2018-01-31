@@ -1,6 +1,6 @@
 # 层级树
 
-<font color=gray size=5>妖怪有层级，洋葱也有层级。现在你明白了吧？我们都有层级。
+<font color="gray" size=5>妖怪有层级，洋葱也有层级。现在你明白了吧？我们都有层级。
 Ogres have layers，Onions have layers。You get it？We both have layers。
 --Shrek
 </font>
