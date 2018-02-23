@@ -9,7 +9,8 @@ iOS Core Animation:高级技术
 
 另外，英文原版的pdf我就不上传了。
 
-目录：
+--------------------------------
+## 目录：
 
 
 第1章：[图层树](https://github.com/BladeTail/ios_core_anination-advanced_techniques/blob/master/1.the%20Layer%20Tree/the%20Lyaer%20Tree.md)
@@ -18,5 +19,5 @@ iOS Core Animation:高级技术
 
 第3章：[图层几何](https://github.com/BladeTail/ios_core_anination-advanced_techniques/blob/master/3.Layer%20Geometry/3.Layer%20Geometry.md)
 
-
+--------------------------------
 未完待续！。。。。。
