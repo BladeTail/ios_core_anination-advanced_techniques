@@ -18,5 +18,7 @@
 
 第3章：[图层几何](https://github.com/BladeTail/ios_core_anination-advanced_techniques/blob/master/3.Layer%20Geometry/3.Layer%20Geometry.md)
 
+第4章：[视觉效果](https://github.com/BladeTail/ios_core_anination-advanced_techniques/blob/master/4.Visual%20Effects/4.Visual%20Effects.md)
+
 --------------------------------
 未完待续！。。。。。
